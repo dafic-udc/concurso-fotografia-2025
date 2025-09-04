@@ -1,7 +1,5 @@
 :root {
-    --color-prazo-0: #101010;
-    --color-prazo-1: #326e76;
-    --color-prazo-2: #4caf50;
+    --color-prazo-activo: #6b0eda;
 }
 
 hr {
@@ -56,7 +54,7 @@ hr {
 .prazo-activo {
     color: black;
     border-color: black;
-    background-color: cyan;
+    background-color: var(--color-prazo-activo);
 }
 
 .ligazons-concurso {
