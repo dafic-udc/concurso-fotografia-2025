@@ -2,16 +2,6 @@
 const gallery = document.getElementById("gallery");
 
 const imageUrls = [
-    "./assets/img/fotos_concurso/foto2.jpg",
-    "./assets/img/fotos_concurso/foto2.jpg",
-    "./assets/img/fotos_concurso/foto2.jpg",
-    "./assets/img/fotos_concurso/foto2.jpg",
-    "./assets/img/fotos_concurso/foto2.jpg",
-    "./assets/img/fotos_concurso/foto2.jpg",
-    "./assets/img/fotos_concurso/foto2.png",
-    "./assets/img/fotos_concurso/foto_base.png",
-    "./assets/img/fotos_concurso/foto_base.png",
-    "./assets/img/fotos_concurso/foto_base.png",
 ];
 
 let currentImageIndex = 0;
