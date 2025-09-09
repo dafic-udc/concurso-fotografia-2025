@@ -52,7 +52,7 @@ hr {
 }
 
 .prazo-activo {
-    color: black;
+    color: white;
     border-color: black;
     background-color: var(--color-prazo-activo);
 }
